@@ -1,0 +1,9 @@
+C:\Users\UX508293\Documents\NET-Basic\Module1\HelloLibrary\bin\Debug\netstandard2.1\HelloLibrary.deps.json
+C:\Users\UX508293\Documents\NET-Basic\Module1\HelloLibrary\bin\Debug\netstandard2.1\HelloLibrary.dll
+C:\Users\UX508293\Documents\NET-Basic\Module1\HelloLibrary\bin\Debug\netstandard2.1\HelloLibrary.pdb
+C:\Users\UX508293\Documents\NET-Basic\Module1\HelloLibrary\obj\Debug\netstandard2.1\HelloLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UX508293\Documents\NET-Basic\Module1\HelloLibrary\obj\Debug\netstandard2.1\HelloLibrary.AssemblyInfoInputs.cache
+C:\Users\UX508293\Documents\NET-Basic\Module1\HelloLibrary\obj\Debug\netstandard2.1\HelloLibrary.AssemblyInfo.cs
+C:\Users\UX508293\Documents\NET-Basic\Module1\HelloLibrary\obj\Debug\netstandard2.1\HelloLibrary.csproj.CoreCompileInputs.cache
+C:\Users\UX508293\Documents\NET-Basic\Module1\HelloLibrary\obj\Debug\netstandard2.1\HelloLibrary.dll
+C:\Users\UX508293\Documents\NET-Basic\Module1\HelloLibrary\obj\Debug\netstandard2.1\HelloLibrary.pdb
